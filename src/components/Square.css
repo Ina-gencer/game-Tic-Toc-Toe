@@ -1,0 +1,16 @@
+.btn {
+    width: 100px;
+    height: 100px;
+    background-color: #FFE59D;
+    border: 1px solid #c89696;
+    cursor: pointer;
+    outline: none;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    
+  }
+
+  
