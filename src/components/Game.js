@@ -47,7 +47,6 @@ useEffect(() => {
            <p  className='game_info'>
              {winner ? "Congratulations! Winner is "   + winner : "Next move :" + "" + (xIsNext ? '«X»' : '«0»')  } 
 
-              {/* {status} */}
             </p>
             
             <Board squares={board} handleClick={handleClick}/>
